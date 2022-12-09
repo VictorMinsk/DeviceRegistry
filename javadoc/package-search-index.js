@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"devicesregistry.controller"},{"l":"devicesregistry.dbtools"},{"l":"devicesregistry.model"},{"l":"devicesregistry.view"}];updateSearchResults();
